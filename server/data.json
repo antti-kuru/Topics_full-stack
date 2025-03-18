@@ -1,0 +1,43 @@
+{
+  "topics": [
+    {
+      "topic": "cars",
+      "notes": [
+        {
+          "name": {
+            "name": "Toyota",
+            "text": "Yaris",
+            "timestamp": "17.3.2025 klo 10.45.52"
+          }
+        },
+        {
+          "name": {
+            "name": "Toyota",
+            "text": "Auris",
+            "timestamp": "17.3.2025 klo 10.46.15"
+          }
+        }
+      ]
+    },
+    {
+      "topic": "apple",
+      "notes": [
+        {
+          "name": {
+            "name": "iphone",
+            "text": "4",
+            "timestamp": "18.3.2025 klo 9.31.49"
+          }
+        },
+        {
+          "name": {
+            "name": "mac",
+            "text": "pro",
+            "timestamp": "18.3.2025 klo 9.32.56"
+          }
+        }
+      ],
+      "savedWikiLink": "https://en.wikipedia.org/wiki/Apple_Inc."
+    }
+  ]
+}
